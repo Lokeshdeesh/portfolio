@@ -123,7 +123,7 @@ img {
 }
 
 @media screen and (max-width: 768px) {
-   body {
+  body {
     margin: 0;
     background-color: rgb(18, 17, 17);
   }
@@ -134,7 +134,7 @@ img {
     width: 80%;
     height: 100%;
     padding: 2rem;
-    background-color: var(--second-color);
+    background-color: rgb(21, 15, 15);
     transition: 0.5s;
   }
 }
@@ -145,7 +145,7 @@ img {
 
 .nav_link {
   position: relative;
-  color: #fff;
+  color:rgb(236, 231, 231);
 }
 
 .nav_link:hover {
